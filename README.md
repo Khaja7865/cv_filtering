@@ -8,4 +8,4 @@ The output below shows the original image and the results obtained using the 3×
 
 # Author
 
-**Moraboina Fanindhra Yadav**
+**Shaik Khaja moin**
