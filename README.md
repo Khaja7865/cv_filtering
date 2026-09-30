@@ -1,4 +1,4 @@
-# Average Filtering Using OpenCV
+#  Filtering Using OpenCV
 
 ## Output:
 
